@@ -1,4 +1,5 @@
 influences
+=========
 Falling Down 1993 (similar story line)
 Max Payne 2001 (Story expression style) 
 Legend of the Kage 1985 (orthogonal 2D view and gameplay) 
@@ -7,6 +8,7 @@ Asura's Wrath 2012 (power ups, art-style and shifting mechanic style)
 Nidhogg (2014) & Nidhogg 2 (2017) (simplicity in level design an mechanics)
 
 Story
+======
 The protagonist (protag)  has had a series of unfortunate events (A la the Film Falling Down) namely:
 - Loses Job due to redundancy 
 - loses car to theft in a supposedly secure parking area
@@ -16,23 +18,43 @@ The protagonist (protag)  has had a series of unfortunate events (A la the Film 
 the protag then snaps and the game begins when he/she slaps their partner. 
 The protag then goes on to right their personal injustices with a strong hand
 
+Mechanics
+==============
+Level Design 
+------------
+Orthogonal 2D platformer (Step-platformmer with climbing animation? ... ... )
+
+
+Player mechanics
+----------------
+Self depleting health bar
+standard three hit combo
+natural movement speed - briskwalking or sprinting? 
+
 
 
 power ups/items
-*Fishy Rebuke
-*Large Fishy rebuke
-*a good strong pimp-hand (an incremental power-up) Aka "where's my money"!
-*dust devil
-*Tornado 
-*hurricane
-* The Wife Beater 
-*Summon the THUN-DA!!!
-*Budhi-smacker 
-*Slap-gri-la
-* All-mighty-smiter 
+===============
+Each power
+*Fish dance - A fish weapon to increase damage 
+  ->Large Fishy dance (level 2 attack)
+  ->Flying Circus Fish dance (level 3 attack) - shoots fish projectiles.
+*pimp-hand -Power up that increases points currency in tandem with the combo system (twice upgradable)
+  ->"where's my money"! 
+  ->Scrub-be-gone
+*dust devil (base attack) - sends enemy reeling, chance of colliding for a combo bonus
+  ->Tornado (level 2 attack) 
+  ->hurricane (level 3 attack)
+*The Wife Beater  - attack for half damage, then triple damage.
+*Summon the THUN-DA!!! - a strike that sends lightening to the nearest enemies, then stuns others still (twice upgradable)
+*Budhi-smacker - reduces the amount of health loss per-second
+  ->Ensmitenment
+  ->Slap-gri-la - once activated there is no health loss persecond for the duration of the power up
+  ->All-mighty-smiter - complete invincibility for the duration of the power-up. 
 
 
 Streak callouts (a la Unreal Tornament and Quake Arena) - optional
+===================================================================
 oh that's na-aasty 
 pow right in the kisser 
 gonna need an Ice -pack ... or 5 
@@ -59,4 +81,7 @@ Middle-class twit
 
 
 achievements 
+===============
 - Passive pansy (do nothing in the tutorial section for 5 minutes)
+- Let the fool talk (Letting the lecturer in the protest level complete their speech.
+
