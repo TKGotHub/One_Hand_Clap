@@ -24,12 +24,34 @@ Level Design
 ------------
 Orthogonal 2D platformer (Step-platformmer with climbing animation? ... ... )
 
+Movement
+---------
+
+
+Combos
+----------
+
+
+Pickups
+----------
+Options 
+*Placed in level- random drop from individual players 
+  * or place
+*level shop -only for deaths to repeat level with upgrade. or before each level (only for updgrade). 
+
+power ups 
+
 
 Player mechanics
 ----------------
 Self depleting health bar
 standard three hit combo
 natural movement speed - briskwalking or sprinting? 
+
+
+box mechanics
+--------------
+initial opening can cause health loss
 
 
 
@@ -48,9 +70,16 @@ Each power
 *The Wife Beater  - attack for half damage, then triple damage.
 *Summon the THUN-DA!!! - a strike that sends lightening to the nearest enemies, then stuns others still (twice upgradable)
 *Budhi-smacker - reduces the amount of health loss per-second
-  ->Ensmitenment
+  ->Ensmitenment- + a speed boost to  attacks
   ->Slap-gri-la - once activated there is no health loss persecond for the duration of the power up
   ->All-mighty-smiter - complete invincibility for the duration of the power-up. 
+  
+ *1000 hand slap
+ 
+ Upgrades
+ Health upgrade
+ pickup bar upgrade
+ 
 
 
 Streak callouts (a la Unreal Tornament and Quake Arena) - optional
